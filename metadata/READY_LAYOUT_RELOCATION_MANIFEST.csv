@@ -1,0 +1,2 @@
+row_id,title,pipeline,action,classification,confidence,reason,old_relative_path,new_relative_path,size_bytes,sha256_before,sha256_after,checksum_match
+paper-2002-01,The Economics Of Traveler Information From Probes,READY-TO-UPLOAD/PUBLIC,moved,data,high,data suffix,DEDUP_POINTER_MANIFEST.csv,data/DEDUP_POINTER_MANIFEST.csv,548,380f56f4dc98c232a5ec3746db44399cdd53330975e005bbf479b547365f34a7,380f56f4dc98c232a5ec3746db44399cdd53330975e005bbf479b547365f34a7,yes
